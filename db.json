@@ -1,0 +1,102 @@
+{
+  "contacts": [
+    {
+      "id": "ca1",
+      "name": "Leanne Graham Bailey",
+      "email": "Sincere@april.biz",
+      "photo": "https://www.shareicon.net/data/512x512/2016/07/08/116927_man_512x512.png",
+      "mobile": "9876543211",
+      "company": "Romaguera-Crona",
+      "title": "HR",
+      "groupId": "3"
+    },
+    {
+      "id": "ca2",
+      "name": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "photo": "https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/man5-512.png",
+      "mobile": "9876543211",
+      "company": "Deckow-Crist",
+      "title": "Network Admin",
+      "groupId": "2"
+    },
+    {
+      "id": "ca3",
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "photo": "https://cdn2.iconfinder.com/data/icons/business-persons-flat-1/512/person_5-512.png",
+      "mobile": "9876543212",
+      "company": "Romaguera-Jacobson",
+      "title": "Tester",
+      "groupId": "3"
+    },
+    {
+      "id": "ca4",
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "photo": "https://webstockreview.net/images/clipart-woman-cellphone-19.png",
+      "mobile": "9876543213",
+      "company": "Robel-Corkery",
+      "title": "Developer",
+      "groupId": "4"
+    },
+    {
+      "id": "ca5",
+      "name": "Chelsey Dietrich M",
+      "email": "Lucio_Hettinger@annie.ca",
+      "photo": "https://tse3.mm.bing.net/th?id=OIP.9PPdes_WSxaqUQJxWab16AHaHa&pid=Api&P=0&h=180",
+      "mobile": "9876543214",
+      "company": "Keebler LLC",
+      "title": "HR",
+      "groupId": "1"
+    },
+    {
+      "id": "ca6",
+      "name": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "photo": "https://tse4.mm.bing.net/th?id=OIP.8H1m4AFQ4joNiy4Qt7D4awHaHa&pid=Api&P=0&h=180",
+      "mobile": "9876543215",
+      "company": "Considine-Lockman",
+      "title": "Developer",
+      "groupId": "2"
+    },
+    {
+      "id": "ca7",
+      "name": "Kurtis Weissnat",
+      "email": "Telly.Hoeger@billy.biz",
+      "photo": "https://tse1.mm.bing.net/th?id=OIP.Td1TY6gORwR85kWprFeljAHaIh&pid=Api&P=0&h=180",
+      "mobile": "9876543216",
+      "company": "Johns Group",
+      "title": "Data Analyst",
+      "groupId": "3"
+    },
+    {
+      "id": "ca8",
+      "name": "Nicholas Runolfsdottir V",
+      "email": "Sherwood@rosamond.me",
+      "photo": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
+      "mobile": "9876543217",
+      "company": "Abernathy Group",
+      "title": "Developer",
+      "groupId": "4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Friends"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Collegues"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    }
+  ]
+}
